@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Answer Digital Suite">
+
+    <test name="ContactUsPageTestCases">
+
+        <classes>
+            <class name="org.testng.homepage.ContactUsPageTest"/>
+
+        </classes>
+
+    </test>
+    <test name="WhoAreWePageTestCases">
+
+        <classes>
+            <class name="org.testng.homepage.WhoAreWePageTest"/>
+        </classes>
+
+    </test>
+
+</suite>
